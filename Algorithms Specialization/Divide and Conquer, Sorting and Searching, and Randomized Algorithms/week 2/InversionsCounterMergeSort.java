@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-class InversionsCounterMergeSort{
+class InversionsCounterMergeSort{    // by merge sort - O(n logn)
     public static Scanner sc = new Scanner(System.in);
     public static int inversions = 0;
     public static void main(String[] args){

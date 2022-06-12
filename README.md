@@ -1,2 +1,2 @@
 # Algorithms-and-analysis
-Algorithms analysis and implementation
+Algorithms analysis and implementations

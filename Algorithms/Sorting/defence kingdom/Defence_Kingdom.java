@@ -16,6 +16,10 @@ import java.util.Collections;
     output :
         12
  */
+
+/*
+    How to solve : get array -> sort -> both x and y points -> find max distance -> multiply -> O(nlog(n))
+*/
  
 class Defence_Kingdom{
     public static Scanner sc = new Scanner(System.in);
